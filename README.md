@@ -1,2 +1,2 @@
-euclid.js
-=========
+#euclid.js
+## Geometry primitives and alogrithms
